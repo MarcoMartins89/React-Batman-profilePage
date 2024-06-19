@@ -2,6 +2,10 @@
 
 This is a simple React project that showcases a profile page for Batman. The profile page includes a card component displaying Batman's image, details and social media icons that redirect to fan pages on Facebook and Instagram.
 
+## Developed By
+
+- **[Marco Martins](https://www.linkedin.com/in/marco-martins-a-tech/)**
+
 ## Project Structure
 
 The project consists of the following main files:
